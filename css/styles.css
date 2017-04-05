@@ -861,7 +861,7 @@ img {
   background: #202125;
   border: 1px solid #CC3333;
   color: #fff;
-  font-size: 30px;
+  font-size: 24px;
   padding: 10px 20px;
 }
 
@@ -869,6 +869,7 @@ img {
   border: 1px solid #CC3333;
   background: #fff;
   color: #CC3333;
+  cursor: pointer;
 }
 
 .header {
